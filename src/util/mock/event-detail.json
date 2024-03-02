@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "title": "구정마루 이벤트입니다.",
+  "content": "Proin vulputate dui in risus posuere convallis. Aliquam at quam leo. Proin consequat porta nibh ac sagittis. Vivamus dolor urna, posuere non nisl at, porta ornare eros. Sed mauris lacus, mattis eu rhoncus quis, feugiat lacinia erat. Nunc efficitur enim vel magna egestas efficitur. Maecenas eu pulvinar augue, eget mattis diam. Sed dictum mi a lectus tristique ullamcorper. Curabitur nulla velit, lacinia at augue eget, eleifend finibus mi. Ut rhoncus ipsum tellus. Nunc at lacinia lorem, non elementum enim. In consequat consequat nibh vel commodo. Phasellus a leo eros. Phasellus ultricies elit ut velit efficitur lobortis. Curabitur lacinia arcu quis suscipit aliquet. Sed arcu odio, varius eget gravida ultrices, iaculis ut lectus.",
+  "start_date": "2022/09/30",
+  "end_date": "2022/10/31",
+  "status": "진행중",
+  "usage": "사용",
+  "register_date": "2022/10/10 10:00",
+  "image_url": "https://picsum.photos/300/200"
+}

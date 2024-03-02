@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/300/200",
+  "color": "화이트",
+  "living_space": "30평대",
+  "style": "내추럴",
+  "family_type": "싱글",
+  "tag": "화사한,편안한",
+  "creator": "종현",
+  "creator_type": "일반회원",
+  "status": "발행 대기",
+  "request_date": "2022/10/10 10:10",
+  "wish_list": 30,
+  "like_count": 10,
+  "visit_count": 50,
+  "product_id": 1,
+  "detail_images": [
+    "https://picsum.photos/seed/1/200/200",
+    "https://picsum.photos/seed/2/200/200",
+    "https://picsum.photos/seed/3/200/200",
+    "https://picsum.photos/seed/4/200/200"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "today_visits": 235,
+  "today_signup": 15,
+  "current_connected_users": 30,
+  "lan_housewarming_pending_count": 10,
+  "expert_housewarming_pending_count": 5,
+  "ask_pending_count": 2,
+  "visit_chart_data": [],
+  "latest_ask_data": [
+    {
+      "id": 1,
+      "category": "랜선집들이",
+      "title": "회원정보 수정에 관하여",
+      "name": "동그라미",
+      "status": "처리완료"
+    },
+    {
+      "id": 2,
+      "category": "포인트몰",
+      "title": "안녕하세요",
+      "name": "김수현",
+      "status": "답변대기"
+    },
+    {
+      "id": 3,
+      "category": "포인트몰",
+      "title": "안녕하세요. 문의드립니다.",
+      "name": "박수연",
+      "status": "보류"
+    },
+    {
+      "id": 4,
+      "category": "스마트 케어",
+      "title": "문의드립니다.",
+      "name": "이라미",
+      "status": "처리완료"
+    }
+  ]
+}

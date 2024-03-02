@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/300/200",
+  "image_url_mobile": "https://picsum.photos/300/200",
+  "thumb_url": "https://picsum.photos/300/200",
+  "thumb_url_mobile": "https://picsum.photos/300/200",
+  "title": "메인 배너01",
+  "target": 0,
+  "address": "www.kujungmaru.co.kr",
+  "enabled": true,
+  "priority": 4
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "product_code": "1545620",
+    "image_url": "https://picsum.photos/300/200",
+    "category": "패턴마루 > 프라하시리즈 > 헤링븐 강마루",
+    "name": "오크화이트",
+    "tag": "관리가 쉬운",
+    "visit_count": 125,
+    "wish_list": 5,
+    "status": "노출",
+    "registered_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 2,
+    "product_code": "1545620",
+    "image_url": "https://picsum.photos/300/200",
+    "category": "천연마루 > 브러쉬골드",
+    "name": "브라운오크",
+    "tag": "화사한 | 우드",
+    "visit_count": 125,
+    "wish_list": 5,
+    "status": "노출",
+    "registered_date": "2022/10/18 13:50"
+  }
+]

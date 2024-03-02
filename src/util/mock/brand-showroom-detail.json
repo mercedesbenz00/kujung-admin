@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/300/200",
+  "name": "구정마루 남양주점",
+  "address": "경기도 남양주시 경춘로 817",
+  "phone_number": "031-555-0666",
+  "character": "견적상담 가능, 시공가능",
+  "operatingHour": "월-금 10:00-17:00, 토요일 10:00-17:00",
+  "order": 10,
+  "images": [
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200"
+  ],
+  "is_new": true,
+  "is_best": true
+}

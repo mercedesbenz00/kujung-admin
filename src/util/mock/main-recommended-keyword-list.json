@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "keyword": "텍스쳐",
+    "order": 1,
+    "visibility": "노출"
+  },
+  {
+    "id": 2,
+    "keyword": "프라하 강마루",
+    "order": 2,
+    "visibility": "노출"
+  },
+  {
+    "id": 3,
+    "keyword": "화이트브라운",
+    "order": 3,
+    "visibility": "노출"
+  },
+  {
+    "id": 4,
+    "keyword": "엔티크오크",
+    "order": 4,
+    "visibility": "노출"
+  },
+  {
+    "id": 5,
+    "keyword": "원목마루",
+    "order": 5,
+    "visibility": "노출"
+  }
+]

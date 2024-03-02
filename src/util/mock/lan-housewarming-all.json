@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "color": "화이트",
+    "living_space": "30평대",
+    "style": "내추럴",
+    "family_type": "싱글",
+    "tag": "화사한,편안한",
+    "creator": "종현",
+    "status": "발행대기",
+    "request_date": "2022/10/10 10:10",
+    "process_date": "2022/10/10 10:10",
+    "main_exposure": false
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "모던",
+    "family_type": "부부",
+    "tag": "화사한,편안한",
+    "creator": "종현",
+    "status": "발행대기",
+    "request_date": "2022/10/10 10:10",
+    "process_date": "2022/10/10 10:10",
+    "main_exposure": false
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "color": "화이트",
+    "living_space": "30평대",
+    "style": "내추럴",
+    "family_type": "싱글",
+    "tag": "화사한,편안한",
+    "creator": "종현",
+    "status": "발행대기",
+    "request_date": "2022/10/10 10:10",
+    "process_date": "2022/10/10 10:10",
+    "main_exposure": false
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "모던",
+    "family_type": "부부",
+    "tag": "화사한,편안한",
+    "creator": "종현",
+    "status": "발행대기",
+    "request_date": "2022/10/10 10:10",
+    "process_date": "2022/10/10 10:10",
+    "main_exposure": false
+  }
+]

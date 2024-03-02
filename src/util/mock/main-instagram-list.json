@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "블랙마루",
+    "url": "https://www.instagram.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "꾸안꾸",
+    "url": "https://www.instagram.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "짙은마루에",
+    "url": "https://www.instagram.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 인스타그램04",
+    "url": "https://www.instagram.com/abcdef",
+    "use": "미사용"
+  }
+]

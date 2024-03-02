@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/300/200",
+  "category": "카탈로그",
+  "title": "2020 종합 카달로그",
+  "summary": "2020 종합 카달로그 입니다.",
+  "register_date": "2022/10/10 10:00",
+  "downloadFiles": ["https://picsum.photos/300/200"],
+  "previewFiles": ["https://picsum.photos/300/200"]
+}

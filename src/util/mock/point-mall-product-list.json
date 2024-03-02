@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 lookbook_03",
+    "summary": "가을에 어울리는 마루들을 소개하는 구정마루 카탈로그입니다. 집을 따뜻한 분위기로 만들어주는 구정마루",
+    "point": 100,
+    "is_bee_pick": true,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "2020 종합 카달로그",
+    "summary": "2020 종합 카달로그 입니다.",
+    "point": 100,
+    "is_bee_pick": false,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 그랜드텍스쳐",
+    "summary": "구정마루의 제품중 구정마루 그랜드텍스쳐관련 카탈로그입니다.",
+    "point": 100,
+    "is_bee_pick": false,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 lookbook_03",
+    "summary": "가을에 어울리는 마루들을 소개하는 구정마루 카탈로그입니다. 집을 따뜻한 분위기로 만들어주는 구정마루",
+    "point": 100,
+    "is_bee_pick": false,
+    "register_date": "2022/10/10 10:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "간결해서 더욱 고급스러운,우드&화이트 30평 인테리어",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "빈티지&엔틱",
+    "family_type": "싱글",
+    "tag": "화사한|편안한",
+    "creator": "그라미",
+    "status": "발행 완료",
+    "publish_request_date": "2022/10/18 13:50",
+    "publish_approve_reject_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": " ",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "빈티지&엔틱",
+    "family_type": "싱글",
+    "tag": "화사한|편안한",
+    "creator": "하우스디자인",
+    "status": "발행 완료",
+    "publish_request_date": "2022/10/18 13:50",
+    "publish_approve_reject_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "요즘 대세 트렌드! 따뜻하면서 편안함이 느껴지는 아늑한 원목",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "빈티지&엔틱",
+    "family_type": "싱글",
+    "tag": "화사한|편안한",
+    "creator": "zipzip",
+    "status": "발행 완료",
+    "publish_request_date": "2022/10/18 13:50",
+    "publish_approve_reject_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "간결해서 더욱 고급스러운,우드&화이트 30평 인테리어",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "빈티지&엔틱",
+    "family_type": "싱글",
+    "tag": "화사한|편안한",
+    "creator": "그라미",
+    "status": "발행 완료",
+    "publish_request_date": "2022/10/18 13:50",
+    "publish_approve_reject_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 5,
+    "image_url": "https://picsum.photos/300/200",
+    "title": " ",
+    "color": "포인트 컬러",
+    "living_space": "30평대",
+    "style": "빈티지&엔틱",
+    "family_type": "싱글",
+    "tag": "화사한|편안한",
+    "creator": "하우스디자인",
+    "status": "발행 완료",
+    "publish_request_date": "2022/10/18 13:50",
+    "publish_approve_reject_date": "2022/10/18 13:50"
+  }
+]

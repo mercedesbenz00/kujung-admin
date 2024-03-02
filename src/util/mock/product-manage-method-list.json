@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "youtube_thumbnail_url": "https://picsum.photos/300/200",
+    "title": "마루에 스팀청소기를 돌려도 되나요?",
+    "summary": "영상에 관한 간략설명입니다.",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "youtube_thumbnail_url": "https://picsum.photos/300/200",
+    "title": "마루에 물걸레질 해도 되나요?",
+    "summary": "영상에 관한 간략설명입니다.",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "youtube_thumbnail_url": "https://picsum.photos/300/200",
+    "title": "마루에 오염이 생겼는데, 락스로 닦아봐도 되나요?",
+    "summary": "영상에 관한 간략설명입니다.",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "youtube_thumbnail_url": "https://picsum.photos/300/200",
+    "title": "강마루 찍힘,보수는 어떻게 하나요?",
+    "summary": "영상에 관한 간략설명입니다.",
+    "register_date": "2022/10/10 10:00"
+  }
+]

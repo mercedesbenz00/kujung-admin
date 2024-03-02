@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "house_type": "아파트",
+    "size": "20평 이하",
+    "register_date": "2022/10/18 20:17",
+    "status": "답변대기"
+  },
+  {
+    "id": 2,
+    "name": "최수용",
+    "phone_number": "01033333333",
+    "house_type": "단독주택",
+    "size": "30평 형대",
+    "register_date": "2022/10/18 20:17",
+    "status": "답변대기"
+  },
+  {
+    "id": 3,
+    "name": "이선화",
+    "phone_number": "01044444444",
+    "house_type": "빌라",
+    "size": "30평 형대",
+    "register_date": "2022/10/18 20:17",
+    "status": "처리완료"
+  },
+  {
+    "id": 4,
+    "name": "박서연",
+    "phone_number": "01055555555",
+    "house_type": "사무실/상가",
+    "size": "40평 형대",
+    "register_date": "2022/10/18 20:17",
+    "status": "답변대기"
+  }
+]

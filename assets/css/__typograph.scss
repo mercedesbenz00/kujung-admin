@@ -1,0 +1,44 @@
+h1 {
+  @apply font-bold text-[24px] md:text-[30px] lg:text-[34px] leading-[36px] md:leading-[40px] lg:leading-[44px];
+}
+
+h2 {
+  @apply font-bold text-[30px] leading-[40px];
+}
+
+h3 {
+  @apply font-bold text-[24px] leading-[36px];
+}
+
+h4 {
+  @apply font-bold text-[15px] md:text-[22px] leading-[20px] md:leading-[30px];
+}
+
+.text-body1 {
+  @apply text-[13px] md:text-[18px] leading-[18px] md:leading-[24px];
+}
+
+.text-body2 {
+  @apply text-[15px] leading-[20px];
+}
+
+.text-body3 {
+  @apply text-[11px] md:text-[13px] leading-[15px] md:leading-[18px];
+}
+
+.text-caption1 {
+  @apply text-[12px] leading-[16px];
+}
+
+.text-caption2 {
+  @apply text-[11px] leading-[15px];
+}
+
+.text-sub1 {
+  @apply text-[17px] leading-[22px] font-bold;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
+}
+
+.text-sub2 {
+  @apply text-[17px] leading-[22px] font-bold;
+}

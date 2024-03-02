@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "스토어 배너01",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "스토어 배너02",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "스토어 배너03",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "스토어 배너04",
+    "enabled": false
+  }
+]

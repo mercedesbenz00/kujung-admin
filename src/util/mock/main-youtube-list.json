@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 유튜브01",
+    "url": "https://youtu.be/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 유튜브02",
+    "url": "https://youtu.be/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 유튜브03",
+    "url": "https://youtu.be/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 유튜브04",
+    "url": "https://youtu.be/abcdef",
+    "use": "미사용"
+  }
+]

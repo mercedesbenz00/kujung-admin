@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": true
+  },
+  {
+    "id": 2,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 3,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 4,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 5,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 6,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 7,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  },
+  {
+    "id": 8,
+    "title": "구정마루 공지사항입니다.",
+    "content": "",
+    "visits": 523,
+    "register_date": "2022/10/10 10:00",
+    "is_top_fixed": false
+  }
+]

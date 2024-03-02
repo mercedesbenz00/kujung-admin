@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "type": "일반 회원",
+  "status": "정상",
+  "uid": "edhrdm",
+  "nickname": "종현",
+  "name": "신종현",
+  "sns_type": "직접가입",
+  "phone_number": "01011111111",
+  "site_uid": "EIKLW1382A",
+  "email": "jjong@gmail.com",
+  "sms_receive": "수신",
+  "email_receive": "수신",
+  "address": "서울 강남구 선릉로 126길 22 아파트 302",
+  "point": 1000,
+  "signup_date": "2022/10/10 10:00"
+}

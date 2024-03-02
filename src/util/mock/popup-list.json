@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "메인 배너01",
+    "target": 0,
+    "address": "www.kujungmaru.co.kr",
+    "enabled": true,
+    "priority": 4
+  },
+  {
+    "id": 2,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "메인 배너02",
+    "target": 0,
+    "address": "www.kujungmaru.co.kr",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "id": 3,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "메인 배너03",
+    "target": 0,
+    "address": "www.kujungmaru.co.kr",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "id": 4,
+    "thumb_url": "https://picsum.photos/300/200",
+    "title": "메인 배너04",
+    "target": 1,
+    "address": "www.kujungmaru.co.kr",
+    "enabled": false,
+    "priority": 1
+  }
+]

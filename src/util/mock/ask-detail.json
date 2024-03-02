@@ -1,0 +1,34 @@
+{
+  "question": {
+    "id": 1,
+    "type": "랜선집들이",
+    "title": "회원정보 수정에 관하여",
+    "content": "안녕하세요. 랜선집들이에 대한 질문",
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "email": "jjong@naver.com",
+    "register_date": "2022/10/18 20:17",
+    "status": "답변대기",
+    "images": [
+      "https://picsum.photos/seed/1/200/200",
+      "https://picsum.photos/seed/2/200/200",
+      "https://picsum.photos/seed/3/200/200"
+    ]
+  },
+  "answer_null": null,
+  "answer": {
+    "id": 1,
+    "status": "처리완료",
+    "name": "김우리",
+    "create_date": "2022/10/15 21:32",
+    "modifier": "류성운",
+    "modify_date": "2022/10/20 10:00",
+    "title": "구정마루 답변",
+    "content": "안녕하세요\n구정마루 답변입니다.",
+    "images": [
+      "https://picsum.photos/seed/1/200/200",
+      "https://picsum.photos/seed/2/200/200",
+      "https://picsum.photos/seed/3/200/200"
+    ]
+  }
+}

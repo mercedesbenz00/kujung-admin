@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "status": "정상",
+  "type": "대리점",
+  "business_type": "개인",
+  "business_id": "abwsls01",
+  "nickname": "경주점",
+  "business_name": "경주우리집",
+  "name": "신종현",
+  "business_no": "0291838398",
+  "business_telephone": "02345644949",
+  "phone_number": "01011111111",
+  "site_uid": "EIKLW1382A",
+  "email": "jjong@gmail.com",
+  "sms_receive": "수신",
+  "email_receive": "수신",
+  "address": "서울 강남구 선릉로 126길 22 아파트 302",
+  "point": 1000,
+  "request_date": "2022/10/10 10:00",
+  "approve_date": "2022/10/10 10:00"
+}

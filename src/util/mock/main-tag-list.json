@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "tag": "화사한",
+    "order": 1,
+    "visibility": "노출"
+  },
+  {
+    "id": 2,
+    "tag": "고급스러운",
+    "order": 2,
+    "visibility": "노출"
+  },
+  {
+    "id": 3,
+    "tag": "우드",
+    "order": 3,
+    "visibility": "노출"
+  },
+  {
+    "id": 4,
+    "tag": "편안한",
+    "order": 4,
+    "visibility": "노출"
+  },
+  {
+    "id": 5,
+    "tag": "관리가 쉬운",
+    "order": 5,
+    "visibility": "노출"
+  }
+]

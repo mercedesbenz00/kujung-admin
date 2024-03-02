@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "errCode": null,
+  "errMsg": null,
+  "data": {
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJlbWFpbCI6ImppbW15X2RldjEwOUBvdXRsb29rLmNvbSIsIm5hbWUiOiJGcm9udF9kZXYiLCJyb2xlcyI6WyJhZG1pbiJdLCJjcmVhdGVkX2F0IjoiMjAyMy0wNC0yNVQwNjoyMzoxMS4wMDBaIiwidXBkYXRlZF9hdCI6IjIwMjMtMDQtMjVUMDY6MjM6MTEuMDAwWiJ9LCJpYXQiOjE2ODI1MjM0MTYsImV4cCI6MTY4MjYwOTgxNn0.jonLrlxTfseQ4eSPoj7QWaiyivaVCfU3rCtG5k79QpQ"
+  }
+}

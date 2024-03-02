@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "category": "강마루",
+  "image_url": "https://picsum.photos/300/200",
+  "title": "KS인증서",
+  "item": "바닥재",
+  "product_name": "목질 마루판",
+  "register_date": "2022/10/10 10:00",
+  "authority": "한국임업진흥원장",
+  "valid_from": "2022/02/26",
+  "valid_to": "2022/03/31",
+  "certificate_file": "https://picsum.photos/300/200"
+}

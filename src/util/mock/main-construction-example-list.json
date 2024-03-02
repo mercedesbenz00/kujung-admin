@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "고급스러운 주방 인테리어,블랙 주방가구로 세련된...",
+    "url": "https://blog.naver.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "화이트 인테리어 컨셉",
+    "url": "https://blog.naver.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "화이트 우드 인테리어로 화사한 침실 꾸미기",
+    "url": "https://blog.naver.com/abcdef",
+    "use": "사용"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "메인 시공사례04",
+    "url": "https://blog.naver.com/abcdef",
+    "use": "미사용"
+  }
+]

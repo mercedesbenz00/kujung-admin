@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "샘플북 1-5권 상자 무료 발송",
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "email": "ehdrmk@naver.com",
+    "request_date": "2022/10/18 20:17",
+    "status": "발송대기"
+  },
+  {
+    "id": 2,
+    "title": "샘플북 1-5권 상자 무료 발송",
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "email": "ehdrmk@naver.com",
+    "request_date": "2022/10/18 20:17",
+    "status": "발송대기"
+  },
+  {
+    "id": 3,
+    "title": "샘플북 1-5권 상자 무료 발송",
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "email": "ehdrmk@naver.com",
+    "request_date": "2022/10/18 20:17",
+    "status": "발송완료"
+  },
+  {
+    "id": 4,
+    "title": "샘플북 1-5권 상자 무료 발송",
+    "name": "김한수",
+    "phone_number": "01022222222",
+    "email": "ehdrmk@naver.com",
+    "request_date": "2022/10/18 20:17",
+    "status": "발송완료"
+  }
+]

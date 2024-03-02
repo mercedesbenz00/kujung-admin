@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "랜선 집들이",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "",
+    "creator": "그라미(동그라미)",
+    "status": "발행대기",
+    "request_date": "2022/10/18 13:50",
+    "process_date": "-"
+  },
+  {
+    "id": 2,
+    "type": "전문가 집들이",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "싱글라이프에게 적절한 깔끔하고 이쁜 화이트 모던 마루를...",
+    "creator": "그라미(동그라미)",
+    "status": "발행대기",
+    "request_date": "2022/10/18 13:50",
+    "process_date": "-"
+  },
+  {
+    "id": 3,
+    "type": "전문가 집들이",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "요즘 대세 트렌드! 따뜻하면서 편안함이 느껴지는 아늑한...",
+    "creator": "그라미(동그라미)",
+    "status": "발행완료",
+    "request_date": "2022/10/18 13:50",
+    "process_date": "2022/10/18 13:50"
+  },
+  {
+    "id": 4,
+    "type": "랜선 집들이",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "",
+    "creator": "그라미(동그라미)",
+    "status": "발행반려",
+    "request_date": "2022/10/18 13:50",
+    "process_date": "2022/10/18 13:50"
+  }
+]

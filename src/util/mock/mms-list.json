@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "엔지오",
+    "nickname": "yoon1004",
+    "phone_number": "01012345678",
+    "send_date": "2022/03/31 10:00",
+    "status": "전송완료",
+    "message": "안녕하세요. 구정마루 입니다. 10달 이벤트가 있으니 많은 관심부탁드립니다.\n자세한 내용은 아래 링크를 참조해주세요.\nhttps://www.kujungmaru.co.kr/"
+  },
+  {
+    "id": 2,
+    "name": "경북인테리어",
+    "nickname": "경북인테리어",
+    "phone_number": "01012345678",
+    "send_date": "2022/03/31 10:00",
+    "status": "전송완료",
+    "message": "안녕하세요. 구정마루 입니다. 10달 이벤트가 있으니 많은 관심부탁드립니다.\n자세한 내용은 아래 링크를 참조해주세요.\nhttps://www.kujungmaru.co.kr/"
+  },
+  {
+    "id": 3,
+    "name": "김소윤",
+    "nickname": "윤e",
+    "phone_number": "01012345678",
+    "send_date": "2022/03/31 10:00",
+    "status": "전송완료",
+    "message": "안녕하세요. 구정마루 입니다. 10달 이벤트가 있으니 많은 관심부탁드립니다.\n자세한 내용은 아래 링크를 참조해주세요.\nhttps://www.kujungmaru.co.kr/"
+  },
+  {
+    "id": 4,
+    "name": "박규선",
+    "nickname": "reallover",
+    "phone_number": "01012345678",
+    "send_date": "2022/03/31 10:00",
+    "status": "전송완료",
+    "message": "안녕하세요. 구정마루 입니다. 10달 이벤트가 있으니 많은 관심부탁드립니다.\n자세한 내용은 아래 링크를 참조해주세요.\nhttps://www.kujungmaru.co.kr/"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "일반회원",
+    "nickname": "종현",
+    "name": "선종현",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "approve_date": "2022/10/10 10:00",
+    "dormant_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "type": "기업회원",
+    "nickname": "zipzip",
+    "name": "zipzip",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "approve_date": "2022/10/10 10:00",
+    "dormant_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "type": "기업회원",
+    "nickname": "한다",
+    "name": "한다인테리어",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "approve_date": "2022/10/10 10:00",
+    "dormant_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "type": "일반회원",
+    "nickname": "박연우",
+    "name": "박연우",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "approve_date": "2022/10/10 10:00",
+    "dormant_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 5,
+    "type": "일반회원",
+    "nickname": "abwls01",
+    "name": "김유진",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "approve_date": "2022/10/10 10:00",
+    "dormant_date": "2022/10/10 10:00"
+  }
+]

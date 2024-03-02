@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nickname": "종현",
+    "leave_date": "2022/10/10 10:00",
+    "reason": "개인정보 노출우려"
+  },
+  {
+    "id": 2,
+    "nickname": "zipzip",
+    "leave_date": "2022/10/10 10:00",
+    "reason": "서비스 불만"
+  },
+  {
+    "id": 3,
+    "nickname": "그라미",
+    "leave_date": "2022/10/10 10:00",
+    "reason": "고객응대 부족"
+  },
+  {
+    "id": 4,
+    "nickname": "박연우",
+    "leave_date": "2022/10/10 10:00",
+    "reason": "재가입을 위해서"
+  },
+  {
+    "id": 5,
+    "nickname": "abwls01",
+    "leave_date": "2022/10/10 10:00",
+    "reason": "고객응대 부족"
+  }
+]

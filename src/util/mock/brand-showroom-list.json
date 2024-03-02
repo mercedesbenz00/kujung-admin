@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "name": "구정마루 남양주점",
+    "is_new": true,
+    "address": "경기도 남양주시 경춘로 817",
+    "phone_number": "031-555-0666",
+    "order": 10
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "name": "구정마루 강동점",
+    "is_new": false,
+    "address": "경기도 하남시 강북동 354-6",
+    "phone_number": "02-478-2372",
+    "order": 11
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "name": "구정마루 본사 작업 쇼룸",
+    "is_new": false,
+    "address": "경기도 광주시 도척면 마도로 178-13",
+    "phone_number": "031-766-0700",
+    "order": 999
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "name": "구정마루 강동점",
+    "is_new": false,
+    "address": "경기도 하남시 강북동 354-6",
+    "phone_number": "02-478-2372",
+    "order": 50
+  }
+]

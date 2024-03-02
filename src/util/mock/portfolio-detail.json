@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "image_url": "https://picsum.photos/300/200",
+  "category": "브랜드",
+  "title": "구정마루 포트폴리오",
+  "summary": "구정마루의 포트폴리오 요약 내용입니다.",
+  "collabo": "홍길동 작가",
+  "start_date": "2022/09/30",
+  "end_date": "2022/10/31",
+  "site": "속초시",
+  "online": "https://www.github.com",
+  "images": [
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200",
+    "https://picsum.photos/300/200"
+  ],
+  "likes": 100,
+  "visits": 199,
+  "register_date": "2022/10/10 10:00"
+}

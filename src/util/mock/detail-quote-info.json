@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "name": "김한수",
+  "phone_number": "01022222222",
+  "house_type": "아파트",
+  "size": "20평 이하",
+  "register_date": "2022/10/18 20:17",
+  "status": "답변대기",
+  "address": "경기 성남시 분당구 삼평동 661 1층",
+  "construction_range": "거실, 방2개",
+  "floor_category": "천연마루 > 브러쉬골드",
+  "note": "상세견적내기 입니다.",
+  "images": [
+    "https://picsum.photos/seed/1/200/200",
+    "https://picsum.photos/seed/2/200/200",
+    "https://picsum.photos/seed/3/200/200",
+    "https://picsum.photos/seed/4/200/200"
+  ]
+}

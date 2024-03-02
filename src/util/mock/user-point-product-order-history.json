@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "product_name": "샘플북 1-5권 상자 무료 발송",
+    "user_name": "동그라미",
+    "phone_number": "01045634563",
+    "email": "jjong981028@gmail.com",
+    "request_date": "2022/10/18 15:13",
+    "status": "발송대기"
+  },
+  {
+    "id": 2,
+    "product_name": "룩북 무료 발송",
+    "user_name": "동그라미",
+    "phone_number": "01045634563",
+    "email": "jjong981028@gmail.com",
+    "request_date": "2022/10/18 15:13",
+    "status": "발송완료"
+  }
+]

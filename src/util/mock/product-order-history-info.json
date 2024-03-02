@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "김한수",
+  "phone_number": "01022222222",
+  "email": "email@naver.com",
+  "request_date": "2022/10/18 20:17",
+  "status": "발송대기",
+  "receiver_name": "동그라미",
+  "receiver_phone_number": "01022222222",
+  "address": "경기 성남시 분당구 삼평동 661 1층",
+  "memo": "블라블라",
+  "balance_point": 1500,
+  "used_point": 100
+}

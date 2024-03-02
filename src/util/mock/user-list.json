@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "sns_type": "직접가입",
+    "nickname": "종현",
+    "name": "신종현",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "signup_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "sns_type": "네이버",
+    "nickname": "안나",
+    "name": "안시은",
+    "phone_number": "01022222222",
+    "email": "ahn@gmail.com",
+    "point": 0,
+    "signup_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "sns_type": "카카오",
+    "nickname": "영석이",
+    "name": "조영석",
+    "phone_number": "01033333333",
+    "email": "bluemin@gmail.com",
+    "point": 300,
+    "signup_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "sns_type": "직접가입",
+    "nickname": "연우",
+    "name": "박연우",
+    "phone_number": "010444444444",
+    "email": "joce@gmail.com",
+    "point": 10,
+    "signup_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 5,
+    "sns_type": "직접가입",
+    "nickname": "abwls01",
+    "name": "김유진",
+    "phone_number": "01055555555",
+    "email": "abwl@gmail.com",
+    "point": 550,
+    "signup_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 6,
+    "sns_type": "직접가입",
+    "nickname": "원석",
+    "name": "이원석",
+    "phone_number": "01066666666",
+    "email": "yw@gmail.com",
+    "point": 1000,
+    "signup_date": "2022/10/10 10:00"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "프라하 비잔티브라운",
+    "living_space": "20평대",
+    "living_type": "상공간",
+    "tag": "화사한,우드",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "category": "원목마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS품질기준 시험성적서",
+    "living_space": "20평대",
+    "living_type": "상공간",
+    "tag": "고급스러운",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS품질기준 시험성적서",
+    "living_space": "20평대",
+    "living_type": "상공간",
+    "tag": "우드,편안한",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS인증서",
+    "living_space": "20평대",
+    "living_type": "상공간",
+    "tag": "관리가 쉬운",
+    "register_date": "2022/10/10 10:00"
+  }
+]

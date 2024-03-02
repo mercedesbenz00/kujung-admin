@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "type": "인테리어",
+    "business_type": "개인",
+    "business_id": "gksrkdlsxp09",
+    "nickname": "한다인테리어",
+    "business_name": "한다인테리어",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "request_date": "2022/10/10 10:00",
+    "approve_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "type": "대리점",
+    "business_type": "법인",
+    "business_id": "rkska10928",
+    "nickname": "하우스",
+    "business_name": "강남하우스",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 0,
+    "request_date": "2022/10/10 10:00",
+    "approve_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "type": "인테리어",
+    "business_type": "법인",
+    "business_id": "zipzip1298",
+    "nickname": "zipzip",
+    "business_name": "zipzip",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 300,
+    "request_date": "2022/10/10 10:00",
+    "approve_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "type": "대리점",
+    "business_type": "법인",
+    "business_id": "dusdnqs",
+    "nickname": "akanakan",
+    "business_name": "한다",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 10,
+    "request_date": "2022/10/10 10:00",
+    "approve_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 5,
+    "type": "대리점",
+    "business_type": "개인",
+    "business_id": "abwsls01",
+    "nickname": "경주점",
+    "business_name": "경주우리집",
+    "phone_number": "01011111111",
+    "email": "jjong@gmail.com",
+    "point": 1000,
+    "request_date": "2022/10/10 10:00",
+    "approve_date": "2022/10/10 10:00"
+  }
+]

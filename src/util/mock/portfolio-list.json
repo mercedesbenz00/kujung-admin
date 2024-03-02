@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 포트폴리오",
+    "summary": "구정마루의 포트폴리오 요약 내용입니다.",
+    "likes": 100,
+    "visits": 199,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 포트폴리오",
+    "summary": "구정마루의 포트폴리오 요약 내용입니다.",
+    "likes": 100,
+    "visits": 199,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 포트폴리오",
+    "summary": "구정마루의 포트폴리오 요약 내용입니다.",
+    "likes": 100,
+    "visits": 199,
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "image_url": "https://picsum.photos/300/200",
+    "title": "구정마루 포트폴리오",
+    "summary": "구정마루의 포트폴리오 요약 내용입니다.",
+    "likes": 100,
+    "visits": 199,
+    "register_date": "2022/10/10 10:00"
+  }
+]

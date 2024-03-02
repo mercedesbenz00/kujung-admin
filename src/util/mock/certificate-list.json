@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS인증서",
+    "item": "바닥재",
+    "product_name": "목질 마루판",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 2,
+    "category": "원목마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS품질기준 시험성적서",
+    "item": "바닥재",
+    "product_name": "목질 마루판",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 3,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS품질기준 시험성적서",
+    "item": "바닥재",
+    "product_name": "목질 마루판",
+    "register_date": "2022/10/10 10:00"
+  },
+  {
+    "id": 4,
+    "category": "강마루",
+    "image_url": "https://picsum.photos/300/200",
+    "title": "KS인증서",
+    "item": "바닥재",
+    "product_name": "목질 마루판",
+    "register_date": "2022/10/10 10:00"
+  }
+]
